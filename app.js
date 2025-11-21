@@ -1,3 +1,20 @@
+const isGitHubPages = window.location.hostname.includes('github.io');
+const BASE_PATH = isGitHubPages ? '/gc-card-fusion' : '';
+
+function getLangUrl(lang) {
+  if (lang === 'en') {
+    return `${BASE_PATH}/`;
+  }
+  return `${BASE_PATH}/${lang}/`;
+}
+
+// Update links on page load
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelector('[href="/"]').href = getLangUrl('en');
+  document.querySelector('[href="/kr/"]').href = getLangUrl('kr');
+  document.querySelector('[href="/br/"]').href = getLangUrl('br');
+});
+
 let cards = [];
 let sortColumn = null;
 let sortDirection = 'asc';

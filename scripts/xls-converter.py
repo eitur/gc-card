@@ -2,9 +2,17 @@ import pandas as pd
 import re
 import os
 import json
+import requests
+from io import BytesIO
 
-excel_file = 'cards_table.xlsx'
-df = pd.read_excel(excel_file)
+
+# Google Sheets published URL (published xlsx)
+SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQwgz_xiekC9B5pLjj7e3Af2bRYkjz5GAHZ0E_plOxN122PlZcs7OVqDqihuZkyaDQZFaonaanT7AX9/pub?output=xlsx'
+
+# Download spreadsheet
+print("Downloading spreadsheet...")
+response = requests.get(SHEET_URL)
+df = pd.read_excel(BytesIO(response.content))
 df.columns = df.columns.str.lower()
 
 columns_to_keep = ['id', 'name', 'point', 'group', 'namekr', 'namebr']
@@ -46,7 +54,7 @@ for _, row in df.iterrows():
         card_names_dict['br'][name_key] = row['name']  # fallback to English
 
 # Save card-names.json
-locales_folder = "../locales"
+locales_folder = "locales"
 os.makedirs(locales_folder, exist_ok=True)
 card_names_file = os.path.join(locales_folder, 'card-names.json')
 
@@ -77,7 +85,7 @@ for group_number in range(1, 8):
     data_json = group_df_output.to_dict(orient='records')
 
     # Save JSON file
-    cards_folder = "../cards-data"               # your folder name
+    cards_folder = "cards-data"               # your folder name
     os.makedirs(cards_folder, exist_ok=True)   # create it if missing
     output_file = os.path.join(cards_folder, f'group-{group_number}.json')
     with open(output_file, 'w') as f:
