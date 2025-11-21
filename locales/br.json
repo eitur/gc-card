@@ -16,13 +16,14 @@
       "number": "Nº",
       "all": "Todos",
       "howToUse": "Como Usar",
-      "probabilitiesByRange": "Probabilidades por Faixa de Pontos",
+      "probabilitiesByRange": "Probabilidades por Pontuação Total de Carta",
       "missingCardsByGroup": "Cartas Faltando por Grupo",
       "pointRange": "Faixa de Pontos",
-      "missing": "faltando"
+      "missing": "faltando",
+      "progress": "Progresso"
     },
     "help": {
       "title": "Como Usar",
-      "content": "<p>Esta ferramenta ajuda você a calcular probabilidades de fusão de cartas e gerenciar sua coleção de cartas.</p><ul><li><strong>Selecionar cartas:</strong> Clique nas caixas de seleção para selecionar as cartas que você possui</li><li><strong>Ordenar colunas:</strong> Clique nos cabeçalhos de Pontos, Grupo ou Nº para ordenar</li><li><strong>Ver resumo:</strong> O painel superior mostra as faixas de pontos recomendadas para fusão</li><li><strong>Inverter:</strong> Inverta sua seleção atual</li></ul><p>Suas seleções são salvas automaticamente e persistirão na sua próxima visita.</p>"
+      "content": "<p>Esta ferramenta ajuda você a calcular probabilidades de fusão de cartas e gerenciar sua coleção de cartas. Os resultados são calculados com base na <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\">tabela oficial de taxas de itens do GrandChase.</a></p><ul><li><strong>Selecionar cartas:</strong> Clique nas caixas de seleção para selecionar as cartas que você possui</li><li><strong>Ordenar colunas:</strong> Clique nos cabeçalhos de Pontos, Grupo ou Nº para ordenar</li><li><strong>Ver resumo:</strong> O painel superior mostra as faixas de pontos recomendadas para fusão</li><li><strong>Inverter:</strong> Inverta sua seleção atual</li></ul><p>Suas seleções são salvas automaticamente e persistirão na sua próxima visita.</p>"
     }
   }

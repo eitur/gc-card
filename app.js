@@ -5,6 +5,7 @@ const selected = new Set();
 
 // Get base path for asset loading
 const basePath = window.BASE_PATH || '.';
+const imageBasePath = `${basePath}/images/cards`; // Image folder path
 
 async function loadCards() {
   try {
@@ -98,7 +99,12 @@ function renderTable() {
     <tr>
       <td><input type="checkbox" ${selected.has(c.id) ? "checked" : ""} 
           onclick="toggle(${c.id})"></td>
-      <td><div class='card-pic'></div></td>
+      <td>
+        <div class='card-pic' 
+             data-src='${imageBasePath}/${c.image}'
+             title='${i18n.getCardName(c.nameKey)}'>
+        </div>
+      </td>
       <td>${i18n.getCardName(c.nameKey)}</td>
       <td>${c.point}</td>
       <td>${c.group}</td>
@@ -107,7 +113,16 @@ function renderTable() {
     </tr>
   `).join("");
 
+  // Initialize lazy loading for newly rendered images
+  initLazyLoading();
   updateSummary();
+}
+
+function initLazyLoading() {
+  // Observe all card images with data-src attribute
+  document.querySelectorAll('.card-pic[data-src]').forEach(img => {
+    lazyLoader.observe(img);
+  });
 }
 
 function toggle(id) {
@@ -243,7 +258,7 @@ function showDetails() {
     content += `</div><div class="missing-summary"><strong>${i18n.t('ui.missingCardsByGroup') || 'Missing Cards by Group'}</strong><br>`;
     for (let i = 1; i <= 7; i++) {
       const groupStat = stats.groupStats[i];
-      content += `${i18n.t('ui.group')} ${i}: ${groupStat.missing} ${i18n.t('ui.missing') || 'missing'} (${groupStat.selected}/${groupStat.total}) - ${groupStat.missingRate}%<br>`;
+      content += `${i18n.t('ui.group')} ${i}: ${groupStat.missing} ${i18n.t('ui.missing') || 'missing'} (${groupStat.selected}/${groupStat.total}) - ${i18n.t('ui.progress')} ${(100 - groupStat.missingRate).toFixed(2)}%<br>`;
     }
     content += '</div>';
   }

@@ -19,10 +19,11 @@
       "probabilitiesByRange": "Probabilities by Point Range",
       "missingCardsByGroup": "Missing Cards by Group",
       "pointRange": "Point Range",
-      "missing": "missing"
+      "missing": "missing",
+      "progress": "Progress"
     },
     "help": {
       "title": "How to Use",
-      "content": "<p>This tool helps you calculate card fusion probabilities and manage your card collection.</p><ul><li><strong>Select cards:</strong> Click the checkboxes to select cards you have</li><li><strong>Sort columns:</strong> Click on Point, Group, or No. headers to sort</li><li><strong>View summary:</strong> The top panel shows recommended point ranges for fusion</li><li><strong>Reverse:</strong> Invert your current selection</li></ul><p>Your selections are automatically saved and will persist on your next visit.</p>"
+      "content": "<p>This tool helps you calculate card fusion probabilities and manage your card collection. The results are calculated based on the <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\">official GrandChase item rate table.</a></p><ul><li><strong>Select cards:</strong> Click the checkboxes to select cards you have</li><li><strong>Sort columns:</strong> Click on Point, Group, or No. headers to sort</li><li><strong>View summary:</strong> The top panel shows recommended point ranges for fusion</li><li><strong>Reverse:</strong> Invert your current selection</li></ul><p>Your selections are automatically saved and will persist on your next visit.</p>"
     }
   }

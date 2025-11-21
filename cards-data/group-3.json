@@ -7,7 +7,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "black-fairy-queen.png"
+    "image": "black-fairy-queen-card.webp"
   },
   {
     "id": 58,
@@ -17,7 +17,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "magma-paradom.png"
+    "image": "magma-paradom-card.webp"
   },
   {
     "id": 102,
@@ -27,7 +27,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "skeleton-knight.png"
+    "image": "skeleton-knight-card.webp"
   },
   {
     "id": 107,
@@ -37,7 +37,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "skeleton-archer-boss.png"
+    "image": "skeleton-archer-boss-card.webp"
   },
   {
     "id": 126,
@@ -47,7 +47,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "fanatic-bomb-soldier.png"
+    "image": "fanatic-bomb-soldier-card.webp"
   },
   {
     "id": 130,
@@ -57,7 +57,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "foul-swordsman.png"
+    "image": "foul-swordsman-card.webp"
   },
   {
     "id": 448,
@@ -67,7 +67,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "stone-fist-goliath.png"
+    "image": "stone-fist-goliath.webp"
   },
   {
     "id": 457,
@@ -77,7 +77,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "lacerta-shaman.png"
+    "image": "lacerta-shaman.webp"
   },
   {
     "id": 462,
@@ -87,7 +87,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "void-patrol.png"
+    "image": "void-patrol.webp"
   },
   {
     "id": 64,
@@ -97,7 +97,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "black-tempest.png"
+    "image": "black-tempest-card.webp"
   },
   {
     "id": 93,
@@ -107,7 +107,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "dark-anmon-guard.png"
+    "image": "dark-anmon-guard-card.webp"
   },
   {
     "id": 108,
@@ -117,7 +117,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "skeleton-knight-boss.png"
+    "image": "skeleton-knight-boss-card.webp"
   },
   {
     "id": 453,
@@ -127,7 +127,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "lacerta-pathfinder.png"
+    "image": "lacerta-pathfinder.webp"
   },
   {
     "id": 54,
@@ -137,7 +137,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "audrey.png"
+    "image": "audrey-card.webp"
   },
   {
     "id": 62,
@@ -147,7 +147,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "black-knights-shield-bearer.png"
+    "image": "black-knights-shield-bearer-card.webp"
   },
   {
     "id": 96,
@@ -157,7 +157,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "gardosen.png"
+    "image": "gardosen-card.webp"
   },
   {
     "id": 116,
@@ -167,7 +167,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "native-spearman.png"
+    "image": "native-spearman-card.webp"
   },
   {
     "id": 117,
@@ -177,7 +177,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "native-leader.png"
+    "image": "native-leader-card.webp"
   },
   {
     "id": 140,
@@ -187,7 +187,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "icefang.png"
+    "image": "icefang-card.webp"
   },
   {
     "id": 455,
@@ -197,7 +197,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "lacerta-warrior.png"
+    "image": "lacerta-warrior.webp"
   },
   {
     "id": 461,
@@ -207,7 +207,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "void-scout.png"
+    "image": "void-scout.webp"
   },
   {
     "id": 65,
@@ -217,7 +217,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "victor.png"
+    "image": "victor-card.webp"
   },
   {
     "id": 86,
@@ -227,7 +227,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "partusay.png"
+    "image": "partusay-card.webp"
   },
   {
     "id": 103,
@@ -237,7 +237,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "fire-golem.png"
+    "image": "fire-golem-card.webp"
   },
   {
     "id": 106,
@@ -247,7 +247,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "paraminimy.png"
+    "image": "paraminimy-card.webp"
   },
   {
     "id": 454,
@@ -257,7 +257,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "lacerta-fighter.png"
+    "image": "lacerta-fighter.webp"
   },
   {
     "id": 463,
@@ -267,7 +267,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "void-pathfinder.png"
+    "image": "void-pathfinder.webp"
   },
   {
     "id": 117,
@@ -277,7 +277,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "carnivorous-plant-jr.png"
+    "image": "carnivorous-plant-jr-card.webp"
   },
   {
     "id": 134,
@@ -287,7 +287,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "fytros.png"
+    "image": "fytros-card.webp"
   },
   {
     "id": 145,
@@ -297,7 +297,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "mistone.png"
+    "image": "mistone-card.webp"
   },
   {
     "id": 263,
@@ -307,7 +307,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "sphinx.png"
+    "image": "sphinx.webp"
   },
   {
     "id": 264,
@@ -317,7 +317,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "bastion-mary.png"
+    "image": "bastion-mary.webp"
   },
   {
     "id": 265,
@@ -327,7 +327,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "runaway-mary.png"
+    "image": "runaway-mary.webp"
   },
   {
     "id": 266,
@@ -337,7 +337,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "sebastian.png"
+    "image": "sebastian.webp"
   },
   {
     "id": 267,
@@ -347,7 +347,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "zero-archetype.png"
+    "image": "zero-archetype.webp"
   },
   {
     "id": 268,
@@ -357,7 +357,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "lass-fan-girls.png"
+    "image": "lass-fan-girls.webp"
   },
   {
     "id": 269,
@@ -367,7 +367,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "oz-pone-max-reinhardt.png"
+    "image": "oz-pone-max-reinhardt.webp"
   },
   {
     "id": 270,
@@ -377,7 +377,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "rifa.png"
+    "image": "rifa.webp"
   },
   {
     "id": 271,
@@ -387,7 +387,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "elscud-sieghart.png"
+    "image": "elscud-sieghart.webp"
   },
   {
     "id": 272,
@@ -397,7 +397,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "flora.png"
+    "image": "flora.webp"
   },
   {
     "id": 273,
@@ -407,7 +407,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "brody.png"
+    "image": "brody.webp"
   },
   {
     "id": 274,
@@ -417,7 +417,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "klara-libri.png"
+    "image": "klara-libri.webp"
   },
   {
     "id": 275,
@@ -427,7 +427,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "jeeves.png"
+    "image": "jeeves.webp"
   },
   {
     "id": 276,
@@ -437,7 +437,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "violet.png"
+    "image": "violet.webp"
   },
   {
     "id": 277,
@@ -447,7 +447,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "alfred.png"
+    "image": "alfred.webp"
   },
   {
     "id": 278,
@@ -457,7 +457,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "knight-master.png"
+    "image": "knight-master.webp"
   },
   {
     "id": 279,
@@ -467,7 +467,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "lillian-arquemeece.png"
+    "image": "lillian-arquemeece.webp"
   },
   {
     "id": 280,
@@ -477,7 +477,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "krustaccio.png"
+    "image": "krustaccio.webp"
   },
   {
     "id": 281,
@@ -487,7 +487,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "winky.png"
+    "image": "winky.webp"
   },
   {
     "id": 282,
@@ -497,7 +497,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "abingdon.png"
+    "image": "abingdon.webp"
   },
   {
     "id": 449,
@@ -507,7 +507,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "boulder-fist-goliath.png"
+    "image": "boulder-fist-goliath.webp"
   },
   {
     "id": 609,
@@ -517,7 +517,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "outer-wall-of-serdin.png"
+    "image": "outer-wall-of-serdin.webp"
   },
   {
     "id": 616,
@@ -527,7 +527,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "cursed-garden.png"
+    "image": "cursed-garden.webp"
   },
   {
     "id": 617,
@@ -537,7 +537,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "dimension-s-end.png"
+    "image": "dimension-s-end.webp"
   },
   {
     "id": 99,
@@ -547,7 +547,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "dark-gorgos.png"
+    "image": "dark-gorgos-card.webp"
   },
   {
     "id": 109,
@@ -557,7 +557,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "ancient-paradom.png"
+    "image": "ancient-paradom-card.webp"
   },
   {
     "id": 124,
@@ -567,7 +567,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "fanatic-shield-soldier.png"
+    "image": "fanatic-shield-soldier-card.webp"
   },
   {
     "id": 125,
@@ -577,7 +577,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "fanatic-monk.png"
+    "image": "fanatic-monk-card.webp"
   },
   {
     "id": 132,
@@ -587,7 +587,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "vile-naga.png"
+    "image": "vile-naga-card.webp"
   },
   {
     "id": 135,
@@ -597,7 +597,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "wyrm-spawn.png"
+    "image": "wyrm-spawn-card.webp"
   },
   {
     "id": 404,
@@ -607,7 +607,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "servant.png"
+    "image": "servant.webp"
   },
   {
     "id": 412,
@@ -617,7 +617,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "blood-arachnia.png"
+    "image": "blood-arachnia.webp"
   },
   {
     "id": 413,
@@ -627,7 +627,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "poisonous-arachnia.png"
+    "image": "poisonous-arachnia.webp"
   },
   {
     "id": 416,
@@ -637,7 +637,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "fencer-guard.png"
+    "image": "fencer-guard.webp"
   },
   {
     "id": 417,
@@ -647,7 +647,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "sergeant-fencer.png"
+    "image": "sergeant-fencer.webp"
   },
   {
     "id": 431,
@@ -657,7 +657,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "sergeant-sniper.png"
+    "image": "sergeant-sniper.webp"
   },
   {
     "id": 434,
@@ -667,7 +667,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "manager.png"
+    "image": "manager.webp"
   },
   {
     "id": 450,
@@ -677,7 +677,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "stone-elemental-goliath.png"
+    "image": "stone-elemental-goliath.webp"
   },
   {
     "id": 464,
@@ -687,7 +687,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "void-observer.png"
+    "image": "void-observer.webp"
   },
   {
     "id": 88,
@@ -697,7 +697,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "elena.png"
+    "image": "elena-card.webp"
   },
   {
     "id": 95,
@@ -707,7 +707,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "lich.png"
+    "image": "lich-card.webp"
   },
   {
     "id": 111,
@@ -717,7 +717,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "armor-cat.png"
+    "image": "armor-cat-card.webp"
   },
   {
     "id": 112,
@@ -727,7 +727,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "violent-orc.png"
+    "image": "violent-orc-card.webp"
   },
   {
     "id": 115,
@@ -737,7 +737,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "dark-anmon.png"
+    "image": "dark-anmon-card.webp"
   },
   {
     "id": 144,
@@ -747,7 +747,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "hideous-borer.png"
+    "image": "hideous-borer-card.webp"
   },
   {
     "id": 444,
@@ -757,7 +757,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "colonel-sniper.png"
+    "image": "colonel-sniper.webp"
   },
   {
     "id": 451,
@@ -767,7 +767,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "earth-elemental-goliath.png"
+    "image": "earth-elemental-goliath.webp"
   },
   {
     "id": 89,
@@ -777,7 +777,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "kamiki.png"
+    "image": "kamiki-card.webp"
   },
   {
     "id": 92,
@@ -787,7 +787,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "basilisk.png"
+    "image": "basilisk-card.webp"
   },
   {
     "id": 98,
@@ -797,7 +797,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "dark-troll.png"
+    "image": "dark-troll-card.webp"
   },
   {
     "id": 113,
@@ -807,7 +807,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "black-fairy-queen.png"
+    "image": "black-fairy-queen-card.webp"
   },
   {
     "id": 150,
@@ -817,7 +817,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "decoy.png"
+    "image": "decoy-card.webp"
   },
   {
     "id": 159,
@@ -827,7 +827,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "hera.png"
+    "image": "hera-card.webp"
   },
   {
     "id": 137,
@@ -837,7 +837,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "magmok.png"
+    "image": "magmok-card.webp"
   },
   {
     "id": 142,
@@ -847,7 +847,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "aron.png"
+    "image": "aron-card.webp"
   },
   {
     "id": 90,
@@ -857,7 +857,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "mongban-leader.png"
+    "image": "mongban-leader-card.webp"
   },
   {
     "id": 94,
@@ -867,7 +867,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "dark-mongban.png"
+    "image": "dark-mongban-card.webp"
   },
   {
     "id": 100,
@@ -877,7 +877,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "final-kaze-aze.png"
+    "image": "final-kaze-aze-card.webp"
   },
   {
     "id": 104,
@@ -887,7 +887,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "cyclops.png"
+    "image": "cyclops-card.webp"
   },
   {
     "id": 110,
@@ -897,7 +897,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "giant-stone-golem.png"
+    "image": "giant-stone-golem-card.webp"
   },
   {
     "id": 121,
@@ -907,7 +907,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "mutant-skeleton.png"
+    "image": "mutant-skeleton-card.webp"
   },
   {
     "id": 139,
@@ -917,7 +917,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "ice-wyrm-spawn.png"
+    "image": "ice-wyrm-spawn-card.webp"
   },
   {
     "id": 141,
@@ -927,7 +927,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "endarion.png"
+    "image": "endarion-card.webp"
   },
   {
     "id": 146,
@@ -937,7 +937,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "dk-mark-1.png"
+    "image": "dk-mark-1-card.webp"
   },
   {
     "id": 127,
@@ -947,7 +947,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "gashimon.png"
+    "image": "gashimon-card.webp"
   },
   {
     "id": 149,
@@ -957,7 +957,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "poisonous-thorn-monster.png"
+    "image": "poisonous-thorn-monster-card.webp"
   },
   {
     "id": 158,
@@ -967,7 +967,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "dark-hierophant.png"
+    "image": "dark-hierophant-card.webp"
   },
   {
     "id": 66,
@@ -977,7 +977,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "stone-clan-goblin.png"
+    "image": "stone-clan-goblin-card.webp"
   },
   {
     "id": 74,
@@ -987,7 +987,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "underpass-larva.png"
+    "image": "underpass-larva-card.webp"
   },
   {
     "id": 136,
@@ -997,7 +997,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "iron-guard.png"
+    "image": "iron-guard-card.webp"
   },
   {
     "id": 173,
@@ -1007,7 +1007,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "iron-dwart-engineer.png"
+    "image": "iron-dwart-engineer-card.webp"
   },
   {
     "id": 119,
@@ -1017,7 +1017,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "beholder.png"
+    "image": "beholder-card.webp"
   },
   {
     "id": 128,
@@ -1027,7 +1027,7 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "vanessa.png"
+    "image": "vanessa-card.webp"
   },
   {
     "id": 465,
@@ -1037,6 +1037,6 @@
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "void-warrior.png"
+    "image": "void-warrior.webp"
   }
 ]

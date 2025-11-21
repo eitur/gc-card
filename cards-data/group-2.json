@@ -7,7 +7,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "orc-warrior-boss.png"
+    "image": "orc-warrior-boss-card.webp"
   },
   {
     "id": 19,
@@ -17,7 +17,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "giant-drillmon.png"
+    "image": "giant-drillmon-card.webp"
   },
   {
     "id": 21,
@@ -27,7 +27,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "elizabeth.png"
+    "image": "elizabeth-card.webp"
   },
   {
     "id": 187,
@@ -37,7 +37,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "ghost-samurai.png"
+    "image": "ghost-samurai-card.webp"
   },
   {
     "id": 9,
@@ -47,7 +47,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "harpy-queen.png"
+    "image": "harpy-queen-card.webp"
   },
   {
     "id": 40,
@@ -57,7 +57,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "shock-revenant.png"
+    "image": "shock-revenant-card.webp"
   },
   {
     "id": 42,
@@ -67,7 +67,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "coral-fiend.png"
+    "image": "coral-fiend-card.webp"
   },
   {
     "id": 45,
@@ -77,7 +77,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "swamp-spirit.png"
+    "image": "swamp-spirit-card.webp"
   },
   {
     "id": 47,
@@ -87,7 +87,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "violet-pixie.png"
+    "image": "violet-pixie-card.webp"
   },
   {
     "id": 52,
@@ -97,7 +97,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "venomous-gnat.png"
+    "image": "venomous-gnat-card.webp"
   },
   {
     "id": 55,
@@ -107,7 +107,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "queen-creeper.png"
+    "image": "queen-creeper-card.webp"
   },
   {
     "id": 57,
@@ -117,7 +117,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "bloodwind-orc-warrior.png"
+    "image": "bloodwind-orc-warrior-card.webp"
   },
   {
     "id": 188,
@@ -127,7 +127,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "shadow-emissary.png"
+    "image": "shadow-emissary-card.webp"
   },
   {
     "id": 303,
@@ -137,7 +137,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "sidt.png"
+    "image": "sidt.webp"
   },
   {
     "id": 304,
@@ -147,7 +147,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "pepe.png"
+    "image": "pepe.webp"
   },
   {
     "id": 305,
@@ -157,7 +157,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "gon.png"
+    "image": "gon.webp"
   },
   {
     "id": 306,
@@ -167,7 +167,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "slime.png"
+    "image": "slime.webp"
   },
   {
     "id": 307,
@@ -177,7 +177,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "ninko.png"
+    "image": "ninko.webp"
   },
   {
     "id": 308,
@@ -187,7 +187,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "myurin.png"
+    "image": "myurin.webp"
   },
   {
     "id": 309,
@@ -197,7 +197,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "luna.png"
+    "image": "luna.webp"
   },
   {
     "id": 310,
@@ -207,7 +207,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "arkham.png"
+    "image": "arkham.webp"
   },
   {
     "id": 311,
@@ -217,7 +217,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "cuddles.png"
+    "image": "cuddles.webp"
   },
   {
     "id": 312,
@@ -227,7 +227,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "fluffy-buffy.png"
+    "image": "fluffy-buffy.webp"
   },
   {
     "id": 313,
@@ -237,7 +237,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "sarimanok.png"
+    "image": "sarimanok.webp"
   },
   {
     "id": 314,
@@ -247,7 +247,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "cupid.png"
+    "image": "cupid.webp"
   },
   {
     "id": 315,
@@ -257,7 +257,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "casanova.png"
+    "image": "casanova.webp"
   },
   {
     "id": 316,
@@ -267,7 +267,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "kungji.png"
+    "image": "kungji.webp"
   },
   {
     "id": 317,
@@ -277,7 +277,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "blue-fairy.png"
+    "image": "blue-fairy.webp"
   },
   {
     "id": 318,
@@ -287,7 +287,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "bastet.png"
+    "image": "bastet.webp"
   },
   {
     "id": 319,
@@ -297,7 +297,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "chaos-pepe.png"
+    "image": "chaos-pepe.webp"
   },
   {
     "id": 320,
@@ -307,7 +307,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "goldy.png"
+    "image": "goldy.webp"
   },
   {
     "id": 321,
@@ -317,7 +317,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "saku.png"
+    "image": "saku.webp"
   },
   {
     "id": 322,
@@ -327,7 +327,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "dokaebi.png"
+    "image": "dokaebi.webp"
   },
   {
     "id": 323,
@@ -337,7 +337,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "rocco.png"
+    "image": "rocco.webp"
   },
   {
     "id": 324,
@@ -347,7 +347,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "aero-kitty.png"
+    "image": "aero-kitty.webp"
   },
   {
     "id": 325,
@@ -357,7 +357,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "ming-ming.png"
+    "image": "ming-ming.webp"
   },
   {
     "id": 326,
@@ -367,7 +367,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "ice-pixie.png"
+    "image": "ice-pixie.webp"
   },
   {
     "id": 327,
@@ -377,7 +377,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "ninkoro.png"
+    "image": "ninkoro.webp"
   },
   {
     "id": 328,
@@ -387,7 +387,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "koo-ka.png"
+    "image": "koo-ka.webp"
   },
   {
     "id": 329,
@@ -397,7 +397,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "mittens.png"
+    "image": "mittens.webp"
   },
   {
     "id": 330,
@@ -407,7 +407,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "tian-long.png"
+    "image": "tian-long.webp"
   },
   {
     "id": 331,
@@ -417,7 +417,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "sidtri.png"
+    "image": "sidtri.webp"
   },
   {
     "id": 332,
@@ -427,7 +427,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "gorgon.png"
+    "image": "gorgon.webp"
   },
   {
     "id": 333,
@@ -437,7 +437,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "peng-peng.png"
+    "image": "peng-peng.webp"
   },
   {
     "id": 334,
@@ -447,7 +447,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "feste.png"
+    "image": "feste.webp"
   },
   {
     "id": 335,
@@ -457,7 +457,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "lucretia.png"
+    "image": "lucretia.webp"
   },
   {
     "id": 336,
@@ -467,7 +467,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "helper-bot.png"
+    "image": "helper-bot.webp"
   },
   {
     "id": 337,
@@ -477,7 +477,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "emily.png"
+    "image": "emily.webp"
   },
   {
     "id": 338,
@@ -487,7 +487,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "elena.png"
+    "image": "elena.webp"
   },
   {
     "id": 339,
@@ -497,7 +497,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "thommo.png"
+    "image": "thommo.webp"
   },
   {
     "id": 340,
@@ -507,7 +507,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "monkeybeard.png"
+    "image": "monkeybeard.webp"
   },
   {
     "id": 341,
@@ -517,7 +517,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "hanana.png"
+    "image": "hanana.webp"
   },
   {
     "id": 342,
@@ -527,7 +527,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "moon-child.png"
+    "image": "moon-child.webp"
   },
   {
     "id": 17,
@@ -537,7 +537,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "troll.png"
+    "image": "troll-card.webp"
   },
   {
     "id": 33,
@@ -547,7 +547,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "monstrous-ent.png"
+    "image": "monstrous-ent-card.webp"
   },
   {
     "id": 50,
@@ -557,7 +557,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "tiny-creeper.png"
+    "image": "tiny-creeper-card.webp"
   },
   {
     "id": 56,
@@ -567,7 +567,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "bloodwind-orc.png"
+    "image": "bloodwind-orc-card.webp"
   },
   {
     "id": 61,
@@ -577,7 +577,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "black-knights-spearman.png"
+    "image": "black-knights-spearman-card.webp"
   },
   {
     "id": 63,
@@ -587,7 +587,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "dark-acolyte.png"
+    "image": "dark-acolyte-card.webp"
   },
   {
     "id": 83,
@@ -597,7 +597,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "armor-lobster.png"
+    "image": "armor-lobster-card.webp"
   },
   {
     "id": 14,
@@ -607,7 +607,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "red-gorgos.png"
+    "image": "red-gorgos-card.webp"
   },
   {
     "id": 34,
@@ -617,7 +617,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "guardian-ent.png"
+    "image": "guardian-ent-card.webp"
   },
   {
     "id": 46,
@@ -627,7 +627,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "violet-fairy.png"
+    "image": "violet-fairy-card.webp"
   },
   {
     "id": 91,
@@ -637,7 +637,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "mini-fire-golem.png"
+    "image": "mini-fire-golem-card.webp"
   },
   {
     "id": 101,
@@ -647,7 +647,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "skeleton-archer.png"
+    "image": "skeleton-archer-card.webp"
   },
   {
     "id": 24,
@@ -657,7 +657,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "lich.png"
+    "image": "lich-card.webp"
   },
   {
     "id": 28,
@@ -667,7 +667,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "elite-anmon-scout.png"
+    "image": "elite-anmon-scout-card.webp"
   },
   {
     "id": 41,
@@ -677,7 +677,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "emerald-claw-shrimp.png"
+    "image": "emerald-claw-shrimp-card.webp"
   },
   {
     "id": 43,
@@ -687,7 +687,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "krakos.png"
+    "image": "krakos-card.webp"
   },
   {
     "id": 84,
@@ -697,7 +697,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "hungry-ghost.png"
+    "image": "hungry-ghost-card.webp"
   },
   {
     "id": 85,
@@ -707,7 +707,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "mini-ice-golem.png"
+    "image": "mini-ice-golem-card.webp"
   },
   {
     "id": 87,
@@ -717,7 +717,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "dark-anmon-scout.png"
+    "image": "dark-anmon-scout-card.webp"
   },
   {
     "id": 97,
@@ -727,7 +727,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "dark-mage.png"
+    "image": "dark-mage-card.webp"
   },
   {
     "id": 27,
@@ -737,7 +737,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "paradom.png"
+    "image": "paradom-card.webp"
   },
   {
     "id": 30,
@@ -747,7 +747,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "gaicoz.png"
+    "image": "gaicoz-card.webp"
   },
   {
     "id": 48,
@@ -757,7 +757,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "mystic-golem.png"
+    "image": "mystic-golem-card.webp"
   },
   {
     "id": 49,
@@ -767,7 +767,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "king-guang.png"
+    "image": "king-guang-card.webp"
   },
   {
     "id": 53,
@@ -777,7 +777,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "onyx-wendy.png"
+    "image": "onyx-wendy-card.webp"
   },
   {
     "id": 59,
@@ -787,7 +787,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "tartarus.png"
+    "image": "tartarus-card.webp"
   },
   {
     "id": 60,
@@ -797,7 +797,7 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "king-fang.png"
+    "image": "king-fang-card.webp"
   },
   {
     "id": 409,
@@ -807,6 +807,6 @@
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "mutated-rat.png"
+    "image": "mutated-rat.webp"
   }
 ]
