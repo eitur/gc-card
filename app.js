@@ -356,7 +356,6 @@ function loadTheme() {
 // Feedback functionality
 function showFeedback() {
   document.getElementById("feedbackModal").style.display = "block";
-  document.getElementById("feedbackForm").reset();
   document.getElementById("feedbackStatus").style.display = "none";
 }
 
@@ -395,6 +394,9 @@ async function sendFeedback(event) {
       statusDiv.className = 'feedback-status success';
       statusDiv.textContent = i18n.t('ui.feedbackSuccess') || 'Thank you! Your feedback has been sent successfully.';
       statusDiv.style.display = 'block';
+
+      // Clear form AFTER successful submission
+      document.getElementById("feedbackForm").reset();
       
       // Clear form and close modal after 2 seconds
       setTimeout(() => {
