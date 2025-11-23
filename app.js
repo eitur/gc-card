@@ -382,8 +382,8 @@ async function sendFeedback(event) {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        email: email || 'Anonymous',
-        message: message,
+        email: email || 'anonymous@feedback.com',
+        message: email ? message : `[Anonymous Submission]\n\n${message}`,
         page: window.location.href,
         language: window.CURRENT_LANG || 'en',
         timestamp: new Date().toISOString()
