@@ -17,7 +17,7 @@
       "number": "No.",
       "all": "All",
       "howToUse": "How to Use",
-      "probabilitiesByRange": "Probabilities by Point Range",
+      "probabilitiesByRange": "Probabilities of Getting a Missing Card by Point Range",
       "missingCardsByGroup": "Missing Cards by Group",
       "pointRange": "Point Range",
       "missing": "missing",

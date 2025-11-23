@@ -17,7 +17,7 @@
       "number": "Nº",
       "all": "Todos",
       "howToUse": "Como Usar",
-      "probabilitiesByRange": "Probabilidades por Pontuação Total de Carta",
+      "probabilitiesByRange": "Probabilidades de Obter uma Carta Faltante por Faixa de Pontos",
       "missingCardsByGroup": "Cartas Faltando por Grupo",
       "pointRange": "Faixa de Pontos",
       "missing": "faltando",
