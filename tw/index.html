@@ -34,10 +34,18 @@
 <h1 data-i18n="ui.webTitle">Card Fusion Probabilities Calculator</h1>
 
 <div class="top-right">
-  <a href="/" class="lang-btn ">EN</a>
-  <a href="/kr/" class="lang-btn ">KR</a>
-  <a href="/br/" class="lang-btn ">BR</a>
-  <a href="/tw/" class="lang-btn active">TW</a>
+  <div class="lang-dropdown">
+    <button class="lang-dropdown-btn" onclick="toggleLangDropdown()">
+      <span id="currentLang">{{LANG_DISPLAY}}</span>
+      <span class="dropdown-arrow">▼</span>
+    </button>
+    <div class="lang-dropdown-menu" id="langDropdownMenu">
+      <a href="/" class="lang-option ">English (EN)</a>
+      <a href="/kr/" class="lang-option ">한국어 (KR)</a>
+      <a href="/br/" class="lang-option ">Português (BR)</a>
+      <a href="/tw/" class="lang-option active">繁體中文 (TW)</a>
+    </div>
+  </div>
   <div class="help-btn" data-i18n="ui.howToUse" onclick="showHelp()">How to use</div>
   <div class="feedback-btn" onclick="showFeedback()" title="Send Feedback">
     <img src="../images/theme/mail-dark.png" alt="Feedback" class="feedback-icon">

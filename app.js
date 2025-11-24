@@ -431,6 +431,41 @@ async function sendFeedback(event) {
   }
 }
 
+// Language dropdown toggle
+function toggleLangDropdown() {
+  const dropdown = document.querySelector('.lang-dropdown');
+  const menu = document.getElementById('langDropdownMenu');
+  
+  dropdown.classList.toggle('active');
+  menu.classList.toggle('show');
+}
+
+// Close dropdown when clicking outside
+document.addEventListener('click', function(event) {
+  const dropdown = document.querySelector('.lang-dropdown');
+  const menu = document.getElementById('langDropdownMenu');
+  
+  if (dropdown && !dropdown.contains(event.target)) {
+    dropdown.classList.remove('active');
+    menu.classList.remove('show');
+  }
+});
+
+// Update current language display
+function updateCurrentLangDisplay() {
+  const langMap = {
+    'en': 'English',
+    'kr': '한국어',
+    'br': 'Português',
+    'tw': '繁體中文'
+  };
+  
+  const currentLangSpan = document.getElementById('currentLang');
+  if (currentLangSpan && window.CURRENT_LANG) {
+    currentLangSpan.textContent = langMap[window.CURRENT_LANG] || 'EN';
+  }
+}
+
 // Scroll to Top functionality
 function scrollToTop() {
   window.scrollTo({
@@ -456,6 +491,7 @@ window.addEventListener('scroll', handleScrollButton);
 
 // Call loadTheme immediately when script loads
 document.addEventListener('DOMContentLoaded', () => {
+  updateCurrentLangDisplay();
   loadTheme();
   handleScrollButton();
 });

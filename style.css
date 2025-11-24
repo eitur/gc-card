@@ -23,6 +23,134 @@ h1 {
   align-items: center;
 }
 
+/* Language Dropdown */
+.lang-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.lang-dropdown-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  background: white;
+  color: #333;
+  font-size: 13px;
+  transition: all 0.3s;
+  min-width: 80px;
+}
+
+.lang-dropdown-btn:hover {
+  background: #f0f0f0;
+}
+
+.dropdown-arrow {
+  font-size: 10px;
+  transition: transform 0.3s;
+}
+
+.lang-dropdown.active .dropdown-arrow {
+  transform: rotate(180deg);
+}
+
+.lang-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 5px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  min-width: 160px;
+  z-index: 1000;
+  overflow: hidden;
+}
+
+.lang-dropdown-menu.show {
+  display: block;
+  animation: slideDown 0.2s ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.lang-option {
+  display: block;
+  padding: 10px 15px;
+  color: #333;
+  text-decoration: none;
+  font-size: 13px;
+  transition: background 0.2s;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.lang-option:last-child {
+  border-bottom: none;
+}
+
+.lang-option:hover {
+  background: #f8f9fa;
+}
+
+.lang-option.active {
+  background: #4CAF50;
+  color: white;
+  font-weight: 600;
+}
+
+.lang-option.active:hover {
+  background: #45a049;
+}
+
+/* Dark mode for language dropdown */
+body.dark-mode .lang-dropdown-btn {
+  background: #2d2d2d;
+  color: #e0e0e0;
+  border-color: #404040;
+}
+
+body.dark-mode .lang-dropdown-btn:hover {
+  background: #383838;
+}
+
+body.dark-mode .lang-dropdown-menu {
+  background: #2d2d2d;
+  border-color: #404040;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+body.dark-mode .lang-option {
+  color: #e0e0e0;
+  border-bottom-color: #404040;
+}
+
+body.dark-mode .lang-option:hover {
+  background: #383838;
+}
+
+body.dark-mode .lang-option.active {
+  background: #4CAF50;
+  color: white;
+}
+
+body.dark-mode .lang-option.active:hover {
+  background: #45a049;
+}
+
 .lang-btn, .help-btn {
   display: inline-block;
   padding: 6px 12px;
