@@ -45,6 +45,13 @@ function getCardName(cardId) {
   return `Card ${cardId}`;
 }
 
+function getCardGroup(cardGroup) {
+  if (typeof cardGroup === "number" && !isNaN(cardGroup)) {
+    return cardGroup
+  }
+  return i18n.t(`ui.${cardGroup}`);
+}
+
 async function loadCards() {
   try {
     const jsonFiles = [
@@ -154,7 +161,7 @@ function renderTable() {
       </td>
       <td>${getCardName(c.id)}</td>
       <td>${c.point}</td>
-      <td>${c.group}</td>
+      <td>${getCardGroup(c.group)}</td>
       <td style="display:none;">${c.region}</td>
       <td>${c.id}</td>
     </tr>
