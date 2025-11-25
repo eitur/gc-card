@@ -121,6 +121,13 @@ function renderTable() {
   
   if (sortColumn) {
     list.sort((a, b) => {
+      // Special handling for checkbox (selected) column
+      if (sortColumn === 'selected') {
+        const aSelected = selected.has(a.id) ? 1 : 0;
+        const bSelected = selected.has(b.id) ? 1 : 0;
+        return sortDirection === 'asc' ? bSelected - aSelected : aSelected - bSelected;
+      }
+
       let valA = a[sortColumn];
       let valB = b[sortColumn];
       
