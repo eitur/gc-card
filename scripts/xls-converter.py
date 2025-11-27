@@ -120,9 +120,9 @@ if __name__ == "__main__":
     columns_to_keep = ['id', 'name', 'point', 'image', 'group', 'namekr', 'namebr', 'nametw', 'acquiredfrom']
     df = df[columns_to_keep]
     
-    print("\n" + "="*50)
-    print("\n[1] Creating single JSON file...")
-    create_single_json(df)
+    # print("\n" + "="*50)
+    # print("\n[1] Creating single JSON file...")
+    # create_single_json(df)
     
     print("\n" + "="*50)
     
