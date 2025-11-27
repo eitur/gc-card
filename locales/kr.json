@@ -44,16 +44,19 @@
     "acquiredFrom": {
       "serdin": "세르딘",
       "kanavan": "카나반",
-      "silverLand": "Silver Land",
-      "fuse": "Fuse",
-      "ellia": "Ellia",
-      "xenia": "Xenia",
+      "silverLand": "실버랜드",
+      "fuse": "합성",
+      "ellia": "엘리아",
+      "xenia": "제니아",
       "characterExclusiveDungeon": "캐릭터 전용 던전",
       "alcubra": "아툼",
       "archimedia": "아케메디아",
       "harrier": "해리어",
       "eventDungeon": "이벤트 던전",
       "specialDungeon": "스페셜 던전",
-      "anotherWorld": "이세계"
+      "anotherWorld": "이세계",
+      "herosBullionShop": "영웅 상점",
+      "chaserPass": "체이스 패스",
+      "item": "아이템"
     }
   }

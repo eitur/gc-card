@@ -54,6 +54,9 @@
       "harrier": "Harrier",
       "eventDungeon": "Event Dungeon",
       "specialDungeon": "Special Dungeon",
-      "anotherWorld": "Another World"
+      "anotherWorld": "Another World",
+      "herosBullionShop": "Hero's Bullion Shop",
+      "chaserPass": "Chaser Pass",
+      "item": "Item"
     }
   }

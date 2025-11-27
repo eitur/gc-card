@@ -1,170 +1,5 @@
 [
   {
-    "id": 195,
-    "names": {
-      "en": "Naamah Card",
-      "kr": "Naamah Card",
-      "br": "Naamah Card",
-      "tw": "Naamah Card"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta36730.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 196,
-    "names": {
-      "en": "Demon Core Card",
-      "kr": "Demon Core Card",
-      "br": "Demon Core Card",
-      "tw": "Demon Core Card"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta36731.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 202,
-    "names": {
-      "en": "Veron",
-      "kr": "Veron",
-      "br": "Veron",
-      "tw": "Veron"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta78854.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 203,
-    "names": {
-      "en": "Drawl",
-      "kr": "Drawl",
-      "br": "Drawl",
-      "tw": "Drawl"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta78855.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 350,
-    "names": {
-      "en": "Gaikoz",
-      "kr": "Gaikoz",
-      "br": "Gaikoz",
-      "tw": "Gaikoz"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta87521.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 351,
-    "names": {
-      "en": "Victor",
-      "kr": "Victor",
-      "br": "Victor",
-      "tw": "Victor"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta87522.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 352,
-    "names": {
-      "en": "Dark Anmon",
-      "kr": "Dark Anmon",
-      "br": "Dark Anmon",
-      "tw": "Dark Anmon"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta87523.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 353,
-    "names": {
-      "en": "Ashtaroth",
-      "kr": "Ashtaroth",
-      "br": "Ashtaroth",
-      "tw": "Ashtaroth"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta87524.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 354,
-    "names": {
-      "en": "Arawn",
-      "kr": "Arawn",
-      "br": "Arawn",
-      "tw": "Arawn"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta87525.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 355,
-    "names": {
-      "en": "Elder Kungji",
-      "kr": "Elder Kungji",
-      "br": "Elder Kungji",
-      "tw": "Elder Kungji"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta87526.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 539,
-    "names": {
-      "en": "Harrier Orc Lord",
-      "kr": "Harrier Orc Lord",
-      "br": "Harrier Orc Lord",
-      "tw": "Harrier Orc Lord"
-    },
-    "point": "-",
-    "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
-    "image": "sbta163753.webp",
-    "acquiredFrom": "harrier"
-  },
-  {
     "id": 558,
     "names": {
       "en": "Gorgos Queen",
@@ -174,10 +9,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta164323.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 574,
@@ -189,10 +24,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta166349.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 575,
@@ -204,10 +39,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta166350.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 587,
@@ -219,10 +54,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta168741.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "chaserPass"
   },
   {
     "id": 588,
@@ -234,10 +69,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta169271.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 589,
@@ -249,10 +84,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta169272.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 594,
@@ -264,10 +99,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta171696.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "chaserPass"
   },
   {
     "id": 595,
@@ -279,10 +114,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta171697.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "chaserPass"
   },
   {
     "id": 601,
@@ -294,10 +129,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta175003.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 602,
@@ -309,10 +144,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta175004.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 603,
@@ -324,10 +159,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta175710.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "chaserPass"
   },
   {
     "id": 604,
@@ -339,10 +174,10 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta175711.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "chaserPass"
   },
   {
     "id": 605,
@@ -354,9 +189,39 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.041666666666666664,
-    "groupCount": 24,
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
     "image": "sbta177289.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "eventDungeon"
+  },
+  {
+    "id": 644,
+    "names": {
+      "en": "Fallen (Fake) Saint Gaian",
+      "kr": "타락한 성자 가(짜)이안",
+      "br": "Divindade Cáida (Falso) Gaian",
+      "tw": "Fallen (Fake) Saint Gaian"
+    },
+    "point": 1,
+    "group": "uncollectible",
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
+    "image": "sbta184747.webp",
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 645,
+    "names": {
+      "en": "Unknown Gon Warrior",
+      "kr": "의문의 곤 용사",
+      "br": "Guerreiro Gon Desconhecido",
+      "tw": "Unknown Gon Warrior"
+    },
+    "point": 60,
+    "group": "uncollectible",
+    "rate": 0.06666666666666667,
+    "groupCount": 15,
+    "image": "sbta185677.webp",
+    "acquiredFrom": "eventDungeon"
   }
 ]

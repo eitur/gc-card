@@ -9,10 +9,175 @@
     },
     "point": 30,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta22543.webp",
-    "acquiredFrom": "ellia"
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 195,
+    "names": {
+      "en": "Naamah Card",
+      "kr": "Naamah Card",
+      "br": "Naamah Card",
+      "tw": "Naamah Card"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta36730.webp",
+    "acquiredFrom": "herosBullionShop"
+  },
+  {
+    "id": 196,
+    "names": {
+      "en": "Demon Core Card",
+      "kr": "Demon Core Card",
+      "br": "Demon Core Card",
+      "tw": "Demon Core Card"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta36731.webp",
+    "acquiredFrom": "herosBullionShop"
+  },
+  {
+    "id": 202,
+    "names": {
+      "en": "Veron",
+      "kr": "Veron",
+      "br": "Veron",
+      "tw": "Veron"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta78854.webp",
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 203,
+    "names": {
+      "en": "Drawl",
+      "kr": "Drawl",
+      "br": "Drawl",
+      "tw": "Drawl"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta78855.webp",
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 350,
+    "names": {
+      "en": "Gaikoz",
+      "kr": "Gaikoz",
+      "br": "Gaikoz",
+      "tw": "Gaikoz"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta87521.webp",
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 351,
+    "names": {
+      "en": "Victor",
+      "kr": "Victor",
+      "br": "Victor",
+      "tw": "Victor"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta87522.webp",
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 352,
+    "names": {
+      "en": "Dark Anmon",
+      "kr": "Dark Anmon",
+      "br": "Dark Anmon",
+      "tw": "Dark Anmon"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta87523.webp",
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 353,
+    "names": {
+      "en": "Ashtaroth",
+      "kr": "Ashtaroth",
+      "br": "Ashtaroth",
+      "tw": "Ashtaroth"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta87524.webp",
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 354,
+    "names": {
+      "en": "Arawn",
+      "kr": "Arawn",
+      "br": "Arawn",
+      "tw": "Arawn"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta87525.webp",
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 355,
+    "names": {
+      "en": "Elder Kungji",
+      "kr": "Elder Kungji",
+      "br": "Elder Kungji",
+      "tw": "Elder Kungji"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta87526.webp",
+    "acquiredFrom": "item"
+  },
+  {
+    "id": 539,
+    "names": {
+      "en": "Harrier Orc Lord",
+      "kr": "Harrier Orc Lord",
+      "br": "Harrier Orc Lord",
+      "tw": "Harrier Orc Lord"
+    },
+    "point": "-",
+    "group": "exclusive",
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
+    "image": "sbta163753.webp",
+    "acquiredFrom": "item"
   },
   {
     "id": 627,
@@ -24,10 +189,10 @@
     },
     "point": 39,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179571.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 628,
@@ -39,10 +204,10 @@
     },
     "point": 41,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179572.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 629,
@@ -54,10 +219,10 @@
     },
     "point": 43,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179573.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 630,
@@ -69,10 +234,10 @@
     },
     "point": 45,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179574.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 631,
@@ -84,10 +249,10 @@
     },
     "point": 54,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179575.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 632,
@@ -99,10 +264,10 @@
     },
     "point": 60,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179576.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 633,
@@ -114,10 +279,10 @@
     },
     "point": 45,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179577.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 634,
@@ -129,10 +294,10 @@
     },
     "point": 47,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179578.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 635,
@@ -144,10 +309,10 @@
     },
     "point": 49,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179579.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 636,
@@ -159,10 +324,10 @@
     },
     "point": 54,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179580.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 637,
@@ -174,10 +339,10 @@
     },
     "point": 56,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179581.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 638,
@@ -189,10 +354,10 @@
     },
     "point": 58,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta179582.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 643,
@@ -204,40 +369,10 @@
     },
     "point": 70,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta183877.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 644,
-    "names": {
-      "en": "Fallen (Fake) Saint Gaian",
-      "kr": "타락한 성자 가(짜)이안",
-      "br": "Divindade Cáida (Falso) Gaian",
-      "tw": "Fallen (Fake) Saint Gaian"
-    },
-    "point": 1,
-    "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
-    "image": "sbta184747.webp",
-    "acquiredFrom": "-"
-  },
-  {
-    "id": 645,
-    "names": {
-      "en": "Unknown Gon Warrior",
-      "kr": "의문의 곤 용사",
-      "br": "Guerreiro Gon Desconhecido",
-      "tw": "Unknown Gon Warrior"
-    },
-    "point": 60,
-    "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
-    "image": "sbta185677.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "chaserPass"
   },
   {
     "id": 646,
@@ -249,10 +384,10 @@
     },
     "point": 60,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186052.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 647,
@@ -264,10 +399,10 @@
     },
     "point": 62,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186053.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 648,
@@ -279,10 +414,10 @@
     },
     "point": 64,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186054.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 649,
@@ -294,10 +429,10 @@
     },
     "point": 68,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186055.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 650,
@@ -309,10 +444,10 @@
     },
     "point": 81,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186952.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 651,
@@ -324,10 +459,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186954.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 652,
@@ -339,10 +474,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186955.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 653,
@@ -354,10 +489,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186956.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 654,
@@ -369,10 +504,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186957.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 655,
@@ -384,10 +519,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186958.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 656,
@@ -399,10 +534,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186959.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 657,
@@ -414,10 +549,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186960.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 658,
@@ -429,10 +564,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186961.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 659,
@@ -444,10 +579,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186962.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 660,
@@ -459,10 +594,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186963.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 661,
@@ -474,10 +609,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186964.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 662,
@@ -489,10 +624,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186965.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 663,
@@ -504,10 +639,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186966.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 664,
@@ -519,10 +654,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186967.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 665,
@@ -534,10 +669,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186968.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 666,
@@ -549,10 +684,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186969.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 667,
@@ -564,10 +699,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186970.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 668,
@@ -579,10 +714,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186971.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 669,
@@ -594,10 +729,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186972.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 670,
@@ -609,10 +744,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186973.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 671,
@@ -624,10 +759,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186974.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 672,
@@ -639,10 +774,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186975.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 673,
@@ -654,10 +789,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186976.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 674,
@@ -669,10 +804,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186977.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 675,
@@ -684,10 +819,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186978.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 676,
@@ -699,10 +834,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186979.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 677,
@@ -714,10 +849,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186980.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 678,
@@ -729,10 +864,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186981.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 679,
@@ -744,10 +879,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186982.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 680,
@@ -759,10 +894,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186983.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 681,
@@ -774,10 +909,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186984.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 682,
@@ -789,10 +924,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186985.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 683,
@@ -804,10 +939,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186986.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 684,
@@ -819,10 +954,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186987.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 685,
@@ -834,10 +969,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186988.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 686,
@@ -849,10 +984,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186989.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 687,
@@ -864,10 +999,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186990.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 688,
@@ -879,10 +1014,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186991.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 689,
@@ -894,10 +1029,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186992.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 690,
@@ -909,10 +1044,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186993.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 691,
@@ -924,10 +1059,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186994.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 692,
@@ -939,10 +1074,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186995.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 693,
@@ -954,10 +1089,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186996.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 694,
@@ -969,10 +1104,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186997.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 695,
@@ -984,10 +1119,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186998.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 696,
@@ -999,10 +1134,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta186999.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 697,
@@ -1014,10 +1149,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187000.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 698,
@@ -1029,10 +1164,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187001.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 699,
@@ -1044,10 +1179,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187002.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 700,
@@ -1059,10 +1194,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187003.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 701,
@@ -1074,10 +1209,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187004.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 702,
@@ -1089,10 +1224,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187005.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 703,
@@ -1104,10 +1239,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187006.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 704,
@@ -1119,10 +1254,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187007.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 705,
@@ -1134,10 +1269,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187008.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 706,
@@ -1149,10 +1284,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187009.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 707,
@@ -1164,10 +1299,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187010.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 708,
@@ -1179,10 +1314,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187011.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 709,
@@ -1194,10 +1329,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187012.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 710,
@@ -1209,10 +1344,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187013.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 711,
@@ -1224,10 +1359,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187014.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 712,
@@ -1239,10 +1374,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187015.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 713,
@@ -1254,10 +1389,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187016.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 714,
@@ -1269,10 +1404,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187017.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 715,
@@ -1284,10 +1419,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187018.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 716,
@@ -1299,10 +1434,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187019.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 717,
@@ -1314,10 +1449,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187020.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 718,
@@ -1329,10 +1464,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187021.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 719,
@@ -1344,10 +1479,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187022.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 720,
@@ -1359,10 +1494,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187023.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 721,
@@ -1374,10 +1509,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187024.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 722,
@@ -1389,10 +1524,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187025.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 723,
@@ -1404,10 +1539,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187026.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 724,
@@ -1419,10 +1554,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187027.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 725,
@@ -1434,10 +1569,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187028.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 726,
@@ -1449,10 +1584,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187029.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 727,
@@ -1464,10 +1599,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187030.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 728,
@@ -1479,10 +1614,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187031.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 729,
@@ -1494,10 +1629,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187032.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 730,
@@ -1509,10 +1644,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187033.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 731,
@@ -1524,10 +1659,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187034.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 732,
@@ -1539,10 +1674,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187035.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 733,
@@ -1554,10 +1689,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187036.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 734,
@@ -1569,10 +1704,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187037.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 735,
@@ -1584,10 +1719,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187038.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 736,
@@ -1599,10 +1734,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187039.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 737,
@@ -1614,10 +1749,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187040.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 738,
@@ -1629,10 +1764,10 @@
     },
     "point": "-",
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187041.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 739,
@@ -1644,10 +1779,10 @@
     },
     "point": 4,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187745.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "item"
   },
   {
     "id": 740,
@@ -1659,10 +1794,10 @@
     },
     "point": 60,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta187813.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "item"
   },
   {
     "id": 741,
@@ -1674,10 +1809,10 @@
     },
     "point": 2,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "sbta189615.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "item"
   },
   {
     "id": 742,
@@ -1689,9 +1824,9 @@
     },
     "point": 1,
     "group": "exclusive",
-    "rate": 0.008849557522123894,
-    "groupCount": 113,
+    "rate": 0.00819672131147541,
+    "groupCount": 122,
     "image": "default.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "item"
   }
 ]

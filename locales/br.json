@@ -45,15 +45,18 @@
       "serdin": "Serdin",
       "kanavan": "Canaban",
       "silverLand": "Terra de Prata",
-      "fuse": "Fusão",
+      "fuse": "Combinar",
       "ellia": "Ellia",
       "xenia": "Xênia",
       "characterExclusiveDungeon": "Missão Exclusiva de Personagem",
       "alcubra": "Áton",
       "archimedia": "Arquimídia",
-      "harrier": "Mundo Harrier ",
+      "harrier": "Harrier",
       "eventDungeon": "Missão de Evento",
       "specialDungeon": "Missão Especial",
-      "anotherWorld": "Outro Mundo"
+      "anotherWorld": "Outro Mundo",
+      "herosBullionShop": "Loja de Moedas Épicas",
+      "chaserPass": "Passe Chaser",
+      "item": "Item"
     }
   }

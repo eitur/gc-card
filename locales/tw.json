@@ -48,12 +48,15 @@
       "fuse": "合成",
       "ellia": "埃利亞",
       "xenia": "澤尼亞",
-      "characterExclusiveDungeon": "腳色專用副本",
+      "characterExclusiveDungeon": "角色專用副本",
       "alcubra": "阿圖姆",
       "archimedia": "阿卡梅迪亞",
       "harrier": "海利爾",
       "eventDungeon": "活動副本",
       "specialDungeon": "特殊副本",
-      "anotherWorld": "異世界"
+      "anotherWorld": "異世界",
+      "herosBullionShop": "英雄商店",
+      "chaserPass": "追逐通行證",
+      "item": "道具"
     }
 }
