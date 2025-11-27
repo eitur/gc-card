@@ -3,8 +3,8 @@
     "id": 29,
     "names": {
       "en": "Mongban Card",
-      "kr": "Mongban Card",
-      "br": "Mongban Card",
+      "kr": "몽반 카드",
+      "br": "Carta Monban",
       "tw": "Mongban Card"
     },
     "point": 30,
@@ -12,7 +12,7 @@
     "rate": 0.008849557522123894,
     "groupCount": 113,
     "image": "sbta22543.webp",
-    "acquiredFrom": "-"
+    "acquiredFrom": "ellia"
   },
   {
     "id": 627,
