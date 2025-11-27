@@ -1148,3 +1148,87 @@ body.dark-mode .cancel-btn:hover {
     height: 20px;
   }
 }
+
+/* Point Range Expandable Hints */
+.point-range-item {
+  cursor: pointer;
+  transition: all 0.2s;
+  position: relative;
+}
+
+.point-range-item:hover {
+  background: #e9ecef;
+}
+
+.point-range-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.expand-icon {
+  font-size: 12px;
+  transition: transform 0.3s;
+  color: #999;
+}
+
+.point-range-item.expanded .expand-icon {
+  transform: rotate(180deg);
+}
+
+.hint-box {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, margin-top 0.3s ease-out;
+  margin-top: 0;
+}
+
+.point-range-item.expanded .hint-box {
+  max-height: 500px;
+}
+
+.hint-content {
+  padding: 12px;
+  background: #f0f0f0;
+  border-radius: 4px;
+  font-size: 13px;
+  line-height: 1.0;
+  margin: 10px;
+}
+
+.hint-content-header{
+  margin-bottom: 12px;
+}
+
+.combination-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.combination-list li {
+  padding: 3px 0;
+}
+
+.combination-list li:last-child {
+  border-bottom: none;
+}
+
+/* Dark mode for hint boxes */
+body.dark-mode .point-range-item {
+  background: #383838;
+  border-left-color: #4CAF50;
+}
+
+body.dark-mode .point-range-item:hover {
+  background: #444;
+}
+
+body.dark-mode .expand-icon {
+  color: #999;
+}
+
+body.dark-mode .hint-content {
+  background: #2d2d2d;
+  color: #e0e0e0;
+}

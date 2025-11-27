@@ -1,5 +1,15 @@
 const isGitHubPages = window.location.hostname.includes('github.io');
 const BASE_PATH = isGitHubPages ? '/gcc-card' : '';
+const POINT_RANGE_0 = '1-50';
+const POINT_RANGE_1 = '51-95';
+const POINT_RANGE_2 = '96-140';
+const POINT_RANGE_3 = '141-186';
+const POINT_RANGE_4 = '187-230';
+const POINT_RANGE_5 = '231-276';
+const POINT_RANGE_6 = '277-347';
+const POINT_RANGE_7 = '348-383';
+const POINT_RANGE_8 = '384-408';
+const POINT_RANGE_9 = '409-500';
 
 function getLangUrl(lang) {
   if (lang === 'en') {
@@ -244,6 +254,99 @@ function invertSelect() {
   renderTable();
 }
 
+// Toggle hint box expansion (auto-collapse others with smooth animation)
+function toggleHint(element) {
+  const isCurrentlyExpanded = element.classList.contains('expanded');
+  const allItems = document.querySelectorAll('.point-range-item');
+  
+  // Collapse all items
+  allItems.forEach(item => {
+    if (item !== element) {
+      item.classList.remove('expanded');
+    }
+  });
+  
+  // Toggle the clicked item after a brief delay for smooth animation
+  if (isCurrentlyExpanded) {
+    element.classList.remove('expanded');
+  } else {
+    // Small delay to ensure other items collapse first
+    setTimeout(() => {
+      element.classList.add('expanded');
+
+      // Smooth scroll to the expanded item after animation
+      setTimeout(() => {
+        element.scrollIntoView({ 
+          behavior: 'smooth', 
+          block: 'nearest',
+          inline: 'nearest'
+        });
+      }, 100);
+    }, 50);
+  }
+}
+
+// Get recommended card combinations for each point range
+function getRecommendedCombinations(pointRange) {
+  const combinations = {
+    [POINT_RANGE_1]: [
+      '8 + 8 + 8 + 9 + 9 + 9',
+      '7 + 7 + 7 + 10 + 10 + 10',
+      '6 + 6 + 6 + 11 + 11 + 11',
+    ],
+    [POINT_RANGE_2]: [
+      '16 + 16 + 16 + 16 + 16 + 16',
+      '15 + 15 + 17 + 17 + 16 + 16',
+      '18 + 18 + 14 + 14 + 16 + 16',
+    ],
+    [POINT_RANGE_3]: [
+      '35 + 35 + 35 + 36',
+      '36 + 36 + 34 + 35',
+      '33 + 34 + 37 + 37',
+      '32 + 32 + 38 + 39',
+    ],
+    [POINT_RANGE_4]: [
+      '47 + 47 + 47 + 46',
+      '46 + 48 + 48 + 45',
+      '37 + 37 + 37 + 38 + 38',
+      '36 + 36 + 39 + 39 + 37',
+      '44 + 47 + 48 + 48',
+    ],
+    [POINT_RANGE_5]: [
+      '46 + 46 + 46 + 46 + 47',
+      '45 + 45 + 45 + 48 + 48',
+      '38 + 38 + 38 + 39 + 39 + 39',
+    ],
+    [POINT_RANGE_6]: [
+      '46 + 46 + 46 + 46 + 46 + 47',
+      '45 + 45 + 45 + 47 + 47 + 48',
+      '39 + 39 + 40 + 40 + 59 + 60',
+      '39 + 39 + 43 + 43 + 56 + 57',
+    ],
+    [POINT_RANGE_7]: [
+      '58 + 58 + 58 + 58 + 58 + 58',
+      '57 + 57 + 58 + 58 + 59 + 59',
+      '56 + 56 + 60 + 60 + 58 + 58',
+    ],
+    [POINT_RANGE_8]: [
+      '64 + 64 + 64 + 64 + 64 + 64',
+      '63 + 63 + 64 + 64 + 65 + 65',
+      '62 + 64 + 64 + 64 + 64 + 66',
+    ],
+    [POINT_RANGE_9]: [
+      '68 + 68 + 68 + 68 + 68 + 69',
+      '67 + 67 + 67 + 69 + 69 + 70',
+      '66 + 66 + 66 + 70 + 70 + 71',
+      '65 + 65 + 66 + 71 + 71 + 71',
+      '61 + 61 + 62 + 75 + 75 + 75',
+    ]
+  };
+
+  return combinations[pointRange] || [
+    { cards: 'No data', description: 'Combination data not available for this range' }
+  ];
+}
+
 function calculateStats() {
   const groupStats = {};
   const groups = [1, 2, 3, 4, 5, 6, 7, 'exclusive'];
@@ -263,16 +366,16 @@ function calculateStats() {
   }
 
   const fusionRates = [
-    { range: '1-50', rates: { 1: 100.00, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0 } },
-    { range: '51-95', rates: { 1: 20.00, 2: 70.00, 3: 10.00, 4: 0, 5: 0, 6: 0, 7: 0 } },
-    { range: '96-140', rates: { 1: 10.00, 2: 70.00, 3: 20.00, 4: 0, 5: 0, 6: 0, 7: 0 } },
-    { range: '141-186', rates: { 1: 0, 2: 20.00, 3: 70.00, 4: 10.00, 5: 0, 6: 0, 7: 0 } },
-    { range: '187-230', rates: { 1: 0, 2: 0, 3: 20.00, 4: 70.00, 5: 10.00, 6: 0, 7: 0 } },
-    { range: '231-276', rates: { 1: 0, 2: 0, 3: 10.00, 4: 70.00, 5: 20.00, 6: 0, 7: 0 } },
-    { range: '277-347', rates: { 1: 0, 2: 0, 3: 0, 4: 20.00, 5: 70.00, 6: 10.00, 7: 0 } },
-    { range: '348-383', rates: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 20.00, 6: 70.00, 7: 10.00 } },
-    { range: '384-408', rates: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 10.00, 6: 70.00, 7: 20.00 } },
-    { range: '409-500', rates: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 100.00 } }
+    { range: POINT_RANGE_0, rates: { 1: 100.00, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0 } },
+    { range: POINT_RANGE_1, rates: { 1: 20.00, 2: 70.00, 3: 10.00, 4: 0, 5: 0, 6: 0, 7: 0 } },
+    { range: POINT_RANGE_2, rates: { 1: 10.00, 2: 70.00, 3: 20.00, 4: 0, 5: 0, 6: 0, 7: 0 } },
+    { range: POINT_RANGE_3, rates: { 1: 0, 2: 20.00, 3: 70.00, 4: 10.00, 5: 0, 6: 0, 7: 0 } },
+    { range: POINT_RANGE_4, rates: { 1: 0, 2: 0, 3: 20.00, 4: 70.00, 5: 10.00, 6: 0, 7: 0 } },
+    { range: POINT_RANGE_5, rates: { 1: 0, 2: 0, 3: 10.00, 4: 70.00, 5: 20.00, 6: 0, 7: 0 } },
+    { range: POINT_RANGE_6, rates: { 1: 0, 2: 0, 3: 0, 4: 20.00, 5: 70.00, 6: 10.00, 7: 0 } },
+    { range: POINT_RANGE_7, rates: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 20.00, 6: 70.00, 7: 10.00 } },
+    { range: POINT_RANGE_8, rates: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 10.00, 6: 70.00, 7: 20.00 } },
+    { range: POINT_RANGE_9, rates: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 100.00 } }
   ];
 
   const pointStats = {};
@@ -341,9 +444,37 @@ function showDetails() {
   } else {
     const stats = calculateStats();
     content += `<div class="missing-summary"><strong>${i18n.t('ui.probabilitiesByRange') || 'Probabilities by Point Ranges'}</strong><br>`;
-    
+
+  // Create expandable point range items
     for (const pointStatsData of Object.values(stats.pointStats)) {
-      content += `${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}%<br>`;
+      if (pointStatsData.point === POINT_RANGE_0) {
+        content += `${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}%<br>`;
+      }
+      else {
+        const combinations = getRecommendedCombinations(pointStatsData.point);
+        content += `
+          <div class="point-range-item" onclick="toggleHint(this)">
+            <div class="point-range-header">
+              <span>${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}%</span>
+              <span class="expand-icon">▼</span>
+            </div>
+            <div class="hint-box">
+              <div class="hint-content">
+                <div class="hint-content-header">
+                  <em>${i18n.t('ui.recommendedCombinations') || 'Recommended Combinations'}:</em>
+                </div>
+                <ul class="combination-list">
+                  ${combinations.map(combo => `
+                    <li>
+                      <em>${combo}</em>
+                    </li>
+                  `).join('')}
+                </ul>
+              </div>
+            </div>
+          </div>
+        `;
+      }
     }
 
     content += `</div><div class="missing-summary"><strong>${i18n.t('ui.missingCardsByGroup') || 'Missing Cards by Group'}</strong><br>`;
