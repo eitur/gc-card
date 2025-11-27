@@ -159,6 +159,7 @@ function renderTable() {
 
   document.getElementById("cardTable").innerHTML = list.map(c => `
     <tr class="card-row" onclick="toggleRow(${c.id}, event)">
+      <td>${c.id}</td>
       <td><input type="checkbox" ${selected.has(c.id) ? "checked" : ""} 
           onclick="event.stopPropagation(); toggle(${c.id})"></td>
       <td>
@@ -171,7 +172,6 @@ function renderTable() {
       <td>${c.point}</td>
       <td>${getCardGroup(c.group)}</td>
       <td>${getCardAcquiredFrom(c.acquiredFrom)}</td>
-      <td>${c.id}</td>
     </tr>
   `).join("");
 
